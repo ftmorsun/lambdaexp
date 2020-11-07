@@ -1,4 +1,4 @@
-package day33;
+package functionalprg;
 
 import java.util.ArrayList;
 import java.util.List;

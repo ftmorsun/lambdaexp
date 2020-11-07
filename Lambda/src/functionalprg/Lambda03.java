@@ -1,4 +1,4 @@
-package day33;
+package functionalprg;
 
 import java.time.LocalTime;
 import java.util.ArrayList;
